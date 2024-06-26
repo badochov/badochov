@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-## My social accounts
-- [Linkedin](https://www.linkedin.com/in/hubert-badocha/)
-- [Hackerrank](https://www.hackerrank.com/badochov)
+
 <!--
 **badochov/badochov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
