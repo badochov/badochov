@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+### My projects and assignments from studies can be found [here!](https://github.com/badochov-studies)
 
 
 <!--
